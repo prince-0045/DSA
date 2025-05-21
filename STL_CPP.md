@@ -1,7 +1,7 @@
 
 # 💻 C++ STL (Standard Template Library) Complete Syntax & Functions Guide
 
-This guide covers **all major STL containers** and their **syntax**, **member functions**, and **usage examples**.
+
 
 ---
 
