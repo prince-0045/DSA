@@ -1,11 +1,11 @@
-```
+
 ## 🤔 WHAT AND WHY?
 
 - Loop replacement using recursion
 - Problem = something + subproblem
 - Function calling itself to break down the problem
 
----
+
 
 ## 🌌 RECURSION KI DUNIYA (FORMAT)
 
@@ -20,19 +20,19 @@
 5. **Return** – if function returns something
 
 Example:
-    ```cpp
+```cpp
     int ans = n * fact(n - 1);
     return ans;
-    ```
+```
 
----
+
 
 ## 🧠 IMPORTANT THINGS ABOUT RECURSION
 
 - Must have a **base condition**
 - Without base condition → function calls itself forever → **SEGMENTATION FAULT**
 
----
+
 
 ## 💻 question_1.cpp Includes:
 
@@ -43,7 +43,7 @@ Example:
 - Sum from `1` to `n` (returning from function)
 - Power function (`a^b` using recursion)
 
----
+
 
 ## 🧵 SOME POINTS ABOUT RECURSION
 
@@ -54,11 +54,11 @@ Example:
     `O(number of function calls)`  
     + any extra memory used (e.g., arrays, etc.)
 
----
+
 
 ## 🎉 FUN FACT
 
 Although **recursive** and **iterative** versions may have the same **time complexity**,
 
 ➡️ **Iterative is generally faster** than recursive due to reduced function call overhead 😉
-```
+
