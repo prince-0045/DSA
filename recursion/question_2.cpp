@@ -88,6 +88,19 @@ void pre_in_post(int n){
     cout<<"post: "<<n<<endl;
 
 }
+void zigzag(int n){
+    /*
+        1 -> 111
+        2 -> 211121112
+        3 -> 321112111232111211123
+    */
+   if(n==0)return;
+   cout<<n;
+   zigzag(n-1);
+   cout<<n;
+   zigzag(n-1);
+   cout<<n;
+}
 
 int main()
 {
@@ -98,5 +111,6 @@ int main()
     Print_maze_path(2, 2, 0, 0, "");
     cout<<endl<<Maze_path_2(5,4)<<endl;
     pre_in_post(3);
+    zigzag(3);
     return 0;
 }
