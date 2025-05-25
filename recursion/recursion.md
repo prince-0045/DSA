@@ -77,7 +77,7 @@ suppose,
     - in question_3 file something different . and 78.md has somethng different
     - 
  - Print subset of strings where duplicate value allowed.(one fun fact😁:- we can use subset without duplicate function and store string in **set** and print it .easy pisy)
- - [Leetcode 90 - Subset II]([recursion/90.md](https://github.com/prince-0045/DSA/blob/29fd8cb98f443e4047d40ffa2ba178f5b5bed9e2/recursion/90.md))
+ - [Leetcode 90 - Subset II](recursion/90.md)
 
 
 ## 🧵 SOME POINTS ABOUT RECURSION
