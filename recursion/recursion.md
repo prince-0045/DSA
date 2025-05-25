@@ -70,7 +70,13 @@ suppose,
  - Print Array(Same for Vector also)
  - Min. value of vector(same for array also)(same for maxinum value.only logic something change)
  - Skip a Character(i.e. remove all occurance of "a" in string)(2 methods)(we can do same things for array/vector)
- - [Leetcode 78 - Subsets](https://leetcode.com/problems/subsets/)(Do it for array as well.)(set:-only no.of combination not permutation. so {2,1}={1,2})
+ - [Leetcode 78 - Subsets](https://leetcode.com/problems/subsets/)(Do it for string as well.)
+    - set:-only no.of combination not permutation so {2,1}={1,2})
+    - all unique charater take.
+    - like skip_char_2 in that only one of them all is used.here both the call is occuring.
+    - in question_3 file something different . and 78.md has somethng different
+    - 
+  
 
 
 ## 🧵 SOME POINTS ABOUT RECURSION
