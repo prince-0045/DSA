@@ -63,6 +63,15 @@ suppose,
     return fib(n-1)+fib(n-2);
 ```
 - here first of all fib(n-1) whole execute then fib(n-2) excecutes.
+  
+ ## 💻 question_3.cpp Includes(Multiple Calls): 
+
+ - Tower of hanoi(total no. of moves=[pow(2,n-1)-1])(printing step in funtion)
+ - Print Array(Same for Vector also)
+ - Min. value of vector(same for array also)(same for maxinum value.only logic something change)
+ - Skip a Character(i.e. remove all occurance of "a" in string)(2 methods)(we can do same things for array/vector)
+ - [Leetcode 78 - Subsets](https://leetcode.com/problems/subsets/)(Do it for array as well.)(set:-only no.of combination not permutation. so {2,1}={1,2})
+
 
 ## 🧵 SOME POINTS ABOUT RECURSION
 
