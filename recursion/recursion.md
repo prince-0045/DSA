@@ -31,6 +31,12 @@ Example:
 - Without base condition → function calls itself forever → **SEGMENTATION FAULT**
 
 
+##Difference Between sequences,Subarray and Subset:-
+
+-  subset:-we return specific size of string or array or whatever in any order.
+-  subarray:-continous part of array.
+-  sequences:-means we take element or not take element(but in increasing order)
+
 
 ## 💻 question_1.cpp Includes:
 
