@@ -83,7 +83,8 @@ suppose,
     - in question_3 file something different . and 78.md has somethng different
     - 
  - Print subset of strings where duplicate value allowed.(one fun fact😁:- we can use subset without duplicate function and store string in **set** and print it .easy pisy)
- - [Leetcode 90 - Subset II](90.md)
+ - [Leetcode 90 - Subset II](90.md)]
+ - print k length subseqence (also for array also.do ur self.)
 
 
 ## 🧵 SOME POINTS ABOUT RECURSION
