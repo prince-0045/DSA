@@ -85,6 +85,8 @@ suppose,
  - Print subset of strings where duplicate value allowed.(one fun fact😁:- we can use subset without duplicate function and store string in **set** and print it .easy pisy)
  - [Leetcode 90 - Subset II](90.md)]
  - print k length subseqence (also for array also.do ur self.)
+ - permutation(String)(all characters are unique)(n! is no of possible outcomes when all n are unique.)
+    -no of calls==no of variables in string.
 
 
 ## 🧵 SOME POINTS ABOUT RECURSION
