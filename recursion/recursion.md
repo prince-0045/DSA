@@ -98,7 +98,14 @@ suppose,
     `O(number of function calls)`  
     + any extra memory used (e.g., arrays, etc.)
 
-
+ ## 💻 question_4.cpp Includes :
+ - Subarray(all unique element)(subset left side all call happens)(right side call check if ans.empty()||a[index-1]==ans[ans.size()-1])
+ - Greatest common Divisor(Eucledian algorithm)
+ - generate all binary strings of length n without consecutive 1's.
+ - Combinationsum(Leetcode 39)
+ - Generate Parenthesis(Leetcode 22)
+ - 
+ - 
 
 ## 🎉 FUN FACT
 
